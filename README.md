@@ -5,7 +5,7 @@ A new Flutter project.
 # output
  UI of the application :
  
- ![Screenshot_2023-02-20-17-33-41-18_75b410b44dfeeae298bedc244c328edd](https://user-images.githubusercontent.com/118051884/220117692-e2cb4a5d-4472-4087-b071-f207421013a7.jpg)
+ <img src="https://user-images.githubusercontent.com/118051884/220117692-e2cb4a5d-4472-4087-b071-f207421013a7.jpg" width="200" height="400" />
 ![Screenshot_2023-02-20-17-28-20-64_75b410b44dfeeae298bedc244c328edd](https://user-images.githubusercontent.com/118051884/220117728-70b9ef8c-b426-43e9-b84c-62a385268608.jpg)
 ![Screenshot_2023-02-20-17-28-30-23_75b410b44dfeeae298bedc244c328edd](https://user-images.githubusercontent.com/118051884/220117765-3d03890e-a71f-4de8-b54a-2b92cd774e49.jpg)
 ![Screenshot_2023-02-20-17-28-53-16_75b410b44dfeeae298bedc244c328edd](https://user-images.githubusercontent.com/118051884/220117788-1118088b-7c96-4fe9-9467-dc23c15046da.jpg)
